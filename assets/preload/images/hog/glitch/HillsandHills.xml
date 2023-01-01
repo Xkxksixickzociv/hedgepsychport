@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="HillsandHills.png" width="2500" height="2372">
+  <SubTexture name="DumbassMF0000" x="0" y="0"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+  <SubTexture name="DumbassMF0001" x="1250" y="0"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+  <SubTexture name="DumbassMF0002" x="0" y="593"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+  <SubTexture name="DumbassMF0003" x="1250" y="593"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+  <SubTexture name="DumbassMF0004" x="0" y="1186"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+  <SubTexture name="DumbassMF0005" x="1250" y="1186"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+  <SubTexture name="DumbassMF0006" x="0" y="1779"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+  <SubTexture name="DumbassMF0007" x="1250" y="1779"  width="1250" height="593" frameX="-0" frameY="-0" frameWidth="1250" frameHeight="593"/>
+</TextureAtlas>
